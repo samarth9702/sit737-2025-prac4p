@@ -15,16 +15,20 @@ This project is a basic calculator microservice built using **Node.js** and **Ex
 
 ## 📁 Project Structure
  
-├── logs/ │ 
-├── combined.log │
-    └── error.log 
-├── public/ │ 
-    └── index.html 
-├── logger.js 
-├── server.js 
-├── package.json 
-└── README.md
+├── logs/ <br> 
+├── combined.log <br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── error.log <br>
+├── public/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── index.html  <br>
+├── logger.js <br>
+├── server.js <br>
+├── package.json <br>
+└── README.md<br>
 
-2. Install Dependencies by using - "npm install"
+## 🚀 Getting Started
 
-3. Run the Microservice by using - "node server.js"
+### 1. Clone the Repository by using - git clone https://github.com/samarth9702/sit737-2025-prac4p.git
+
+### 2. Install Dependencies by using - "npm install"
+
+### 3. Run the Microservice by using - "node server.js"
